@@ -1,1 +1,1 @@
-# fake_news_challenge_FNC1
+## Fake News Challenge (FNC-1)
