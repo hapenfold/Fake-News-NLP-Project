@@ -15,11 +15,9 @@ The training dataset provided contains 50,000 pairs of headline and body text wi
 
 |**EXAMPLE HEADLINE**|   |
 |:-------- | ----- |
-||<br/>  |<br/>    |
 |“Robert Plant Ripped up `$`800M Led Zeppelin Reunion Contract”| |
 |<br/>  |<br/>    |
 |**Example Snippets From Body Texts** | **Correct Classification** |
-|<br/>  |<br/>    |
 |“… Led Zeppelin’s Robert Plant turned down £500 MILLION to reform supergroup...”| **Agree**|
 |“… No, Robert Plant did not rip up an `$`800 million deal to get Led Zeppelin back together...”| **Disagree**|
 |“… Robert Plant reportedly tore up an `$`800 million Led Zeppelin reunion deal...”|**Discusses**|
